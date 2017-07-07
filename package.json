@@ -1,0 +1,19 @@
+{
+  "name": "node-async-demo",
+  "version": "1.0.0",
+  "description": "node模块async的实验demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuYuee/node-async-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuYuee/node-async-demo/issues"
+  },
+  "homepage": "https://github.com/HuYuee/node-async-demo#readme"
+}
